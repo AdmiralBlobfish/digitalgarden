@@ -6,7 +6,7 @@ _I adjust the odds and remove obstacles to create maximum convenience for our fr
 
 — Obviator creed
 
-Role held by: [[D&D/Faerun/Acquisitions Incorporated/Lore Reference/PCs/Soren\|Soren]]
+Role held by: [[D&D/Faerun/Acquisitions Incorporated/Lore Reference/PCs/Orcan\|Orcan]]
 
 Obstacles abound along the path to riches. A franchise’s mission success might require combating a rival organization’s disinformation attempts one day, then besting a castle’s defenses the next. The day after that, some poor sap named Bob might need to be disposed of. And no matter what the type of challenge that needs to be overcome, the franchise’s obviator determines the optimal way to shut down and destroy that challenge. (Nothing personal, Bob. It’s just business.)
 
