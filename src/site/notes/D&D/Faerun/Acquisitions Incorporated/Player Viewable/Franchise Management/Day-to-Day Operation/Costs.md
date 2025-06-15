@@ -4,11 +4,20 @@
 
 *While living in the confines of one's Franchise Headquarters, a character may maintain a minimum lifestyle, subsumed in the cost of running the franchise. Poor at rank 1, modest at rank 2, comfortable at rank 3, and wealthy at rank 4. Outside of the franchise headquarters, normal lifestyle expenses apply.*
 ## Main Office Dues
-- Baseline Cost: 200gp/month
-	- This includes:
+- Baseline Cost: 250gp/month
+	- This overall cost subsumes the need to worry about:
 		- Payments on the deed for Tresendar Manor
+		- Maintenance costs related to the Manor
 		- Lifestyle costs while residing in the Manor
+		- Salaries for employees as detailed in [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Main Office Contracts/Main Office Ranking\|Main Office Ranking]]
+		- All employee equipment issued by the Main Office
 		- 
+	- Franchise Rank Multiplier:
+		- As your franchise attains more benefits while rising through the Main Office ranking, your monthly dues will also increase to accommodate the cost of equipment upgrades, headquarters expansions, and expanded salaried employee counts
+	- Monthly Business Performance
+		- Each month, a franchise performs the "Running a Franchise" task, which can be found in the [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Day-to-Day Operation/Downtime Activities\|Downtime Activities]] document. The result of this task is used to calculate the final monthly cost, and is deducted from the franchise's coffers.
+	- Defaulting
+		- No self-respecting franchise would ever run out of money and fail to make its monthly payments. Right? Were that to happen, the amount owed — plus a modest 15 percent penalty — would be due to Head Office the following month. Failing to make payments — and especially defaulting on two or more payments in a row — is likely to trigger consequences. Head Office might send inspectors to a troubled franchise, or assign the franchisees a difficult (and hopefully profitable) mission. Rival groups and entrepreneurs might smell blood and attempt to attack the franchise or take over its markets.  Defaulting on franchise payments can also strain relationships with nobles, merchants, and others who value a franchise more for its assets than for the owners. Such relationships typically turn frosty until the shareholders are able to prove that the franchise is back on its feet. For these reasons, the Main Office highly recommends avoiding any defaulted payments.
 ## Construction Costs
 - Abbey
 	- 50,000gp and 400 days

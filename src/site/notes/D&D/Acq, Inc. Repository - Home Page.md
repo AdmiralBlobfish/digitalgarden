@@ -12,8 +12,8 @@ Hello, and welcome to the Inky Access Repository! This is the home for all of th
 - [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Main Office Contracts/Onboarding Packets\|Onboarding Packets]]
 ## Employee Files
 - [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Employee Files/Share-Holders\|Share-Holders]]
-- [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Employee Files/Business Partners\|Business Partners]]
-- [[Employees\|Employees]]
+- [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Business Partners/Business Partners\|Business Partners]]
+- [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Employee Files/Employees\|Employees]]
 ## Day-to-Day Operation
 - [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Day-to-Day Operation/Costs\|Costs]]
 - [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Day-to-Day Operation/Downtime Activities\|Downtime Activities]]

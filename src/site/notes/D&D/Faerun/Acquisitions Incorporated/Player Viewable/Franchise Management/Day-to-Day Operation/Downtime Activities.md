@@ -713,11 +713,11 @@ Philanthropic Enterprise Complications
 ## Running a Franchise
 Running a business is one of the [downtime activities](https://www.dndbeyond.com/sources/dmg/between-adventures#DowntimeActivities "downtime activities") presented in the _[Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")_, but an Acquisitions Incorporated franchise is no mere business. This new downtime and franchise activity covers the many and varied duties necessary to keep a franchise running smoothly, and determines how well the characters and their staff manage those duties.
 
-Resources. Unless the DM decides otherwise, this franchise task must be run at the end of each month of game time. Unlike other activities, results are determined for running a franchise even if specific characters and staff members are not allocated to the activity. However, allocating characters or staff members to running the franchise greatly improves the chances for a favorable outcome.
+***Resources***. Unless the DM decides otherwise, this franchise task must be run at the end of each month of game time. Unlike other activities, results are determined for running a franchise even if specific characters and staff members are not allocated to the activity. However, allocating characters or staff members to running the franchise greatly improves the chances for a favorable outcome.
 
 During any given month, the players decide how many days their characters and the franchise staff can dedicate to this activity. Characters and staff members cannot perform other activities while focused on this activity (as normal), and any days spent adventuring or engaged in other activities cannot be used for this activity.
 
-Resolution. Percentile dice are rolled by a player nominated for this task by the group. The number of total days spent by all characters and staff members on this activity are added to the roll. That total is then compared to the Running a Franchise table to determine what happens for the month.
+***Resolution***. Percentile dice are rolled by a player nominated for this task by the group. The number of total days spent by all characters and staff members on this activity are added to the roll. That total is then compared to the Running a Franchise table to determine what happens for the month.
 
 Running a Franchise
 

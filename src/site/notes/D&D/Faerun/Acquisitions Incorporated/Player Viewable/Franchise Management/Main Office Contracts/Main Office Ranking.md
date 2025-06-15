@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/d-and-d/faerun/acquisitions-incorporated/player-viewable/franchise-management/main-office-contracts/main-office-ranking/"}
 ---
 
-Acq, Inc. allows for franchises to climb the ranks as they reach performance standards specified by the head office in Waterdeep. Below is a brief description of each rank available.
+Acq, Inc. allows for franchises to climb the ranks as they reach performance standards specified by the head office in Waterdeep. Below is a brief description of the benefits associated with each rank available.
 ## Rank 1 - "Settlement"
 - Staff
 	- Majordomo
