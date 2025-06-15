@@ -2,109 +2,103 @@
 {"dg-publish":true,"permalink":"/d-and-d/faerun/acquisitions-incorporated/player-viewable/franchise-management/onboarding-packets/occultant/"}
 ---
 
-_I adjust the odds and remove obstacles to create maximum convenience for our franchise._
+*Our next kill changes everything.
 
-— Obviator creed
+— Occultant divination
 
 Role held by: [[D&D/Faerun/Acquisitions Incorporated/Lore Reference/PCs/Orcan\|Orcan]]
 
-Obstacles abound along the path to riches. A franchise’s mission success might require combating a rival organization’s disinformation attempts one day, then besting a castle’s defenses the next. The day after that, some poor sap named Bob might need to be disposed of. And no matter what the type of challenge that needs to be overcome, the franchise’s obviator determines the optimal way to shut down and destroy that challenge. (Nothing personal, Bob. It’s just business.)
+An occultant tracks the creatures and foes that a franchise has bested or killed, weighing them against the deeds the franchise has achieved. Using the eldritch abacus for which this position is named, an occultant measures the karmic coordinates of their franchise, hoping to gain portents of that which is yet to come.
 
-As an obviator, you hatch convoluted plots to fight the overwhelming odds presented by each mission — by whatever means are necessary. Sometimes, you might prefer brute strength and improvisation. Other times, you might undertake a deep study of conflicts and rival organizations, working carefully to stay three steps ahead of the opposition. In all cases, though, you help advance your franchise by hatching effective plans and tactics, anticipating problems, and learning about your foes — ideally before they can treat you as an obstacle to their own success.
+Like all occultants, you are a grim and enigmatic figure. Even your closest companions might be wary of the power you channel — and nobody wears that aura of dark mystery like you do. You help advance your franchise by determining whether foes should live or die, prognosticating correctly (or at least authoritatively), keeping the rest of the party attuned to the importance of karma, and making the right calls on how best to “clean up” any incorrect readings or misunderstandings.
 
-Noteworthy Obviators: Lok
+Noteworthy Occultants: Talanatha Three-Coins
 
-Essential Functions: Destroy targets (people and information); study conflicts
+Essential Functions: Track kills; assess the value to the franchise of the living and the dead
 
-Position Proficiency: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to make sense of an enemy’s tactics, discern a hidden threat, or intimidate a foe whose weaknesses you have previously assessed (see “Read the Opposition” below).
+Position Proficiency: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to intimidate a creature close to death, assess what disease or poison killed a creature, or explain what that dead body is doing under your bed at the inn.
 
-The Obviator
+The Occultant
 
 |Franchise Rank|Features|
 |---|---|
-|1|Proficiencies and Starting Equipment, Read the Opposition|
-|2|Alchemist’s Insight, [Obviator’s Lenses](https://www.dndbeyond.com/magic-items/704032-obviators-lenses)|
-|3|Advanced Preparations, [Travel Alchemical Kit](https://www.dndbeyond.com/magic-items/704043-travel-alchemical-kit)|
-|4|Enhanced Lenses, Obviate the Opposition|
+|1|Proficiencies and Starting Equipment, Read the Kill|
+|2|Eldritch Occultant, Bring Out Your Dead|
+|3|Bead of Instant Karma, Death’s Omen|
+|4|Bead of Diverted Karma, Correct the Balance|
 
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#ProficienciesandStartingEquipment6)Proficiencies and Starting Equipment
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#ProficienciesandStartingEquipment7)Proficiencies and Starting Equipment
 
-As a rank 1 obviator, you gain proficiency with [alchemist’s supplies](https://www.dndbeyond.com/equipment/102-alchemists-supplies).
+As a rank 1 occultant, you gain proficiency with one of the following of your choice: [cook’s utensils](https://www.dndbeyond.com/equipment/108-cooks-utensils), [leatherworker’s tools](https://www.dndbeyond.com/equipment/111-leatherworkers-tools), or [weaver’s tools](https://www.dndbeyond.com/equipment/117-weavers-tools).
 
-Head office also grants you the use of [alchemist’s supplies](https://www.dndbeyond.com/equipment/102-alchemists-supplies) (two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients including salt, powdered iron, and purified water); your choice of a [vial of acid](https://www.dndbeyond.com/equipment/18-acid-vial), a [flask of alchemist’s fire](https://www.dndbeyond.com/equipment/19-alchemists-fire-flask), or a [vial of antitoxin](https://www.dndbeyond.com/equipment/204-antitoxin); and a [hunting trap](https://www.dndbeyond.com/equipment/52-hunting-trap).
+Head office also grants you the use of a tool kit for your chosen proficiency, a merchant’s scale, five waterproof belt pouches in which to store creature parts or other tools, and a unique item known as an [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
 
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#ReadtheOpposition)Read the Opposition
+[![](https://www.dndbeyond.com/attachments/thumbnails/5/591/420/543/02-17.png)](https://www.dndbeyond.com/attachments/5/591/02-17.png)
 
-Also at rank 1, you can attempt to get a reading on one creature you can see, trying to learn useful information about it. As a bonus action, make a DC 15 Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. On a success, you learn three details of your choice about the creature. Once you use this feature, you can’t use it again until you finish a long rest. You can use this feature only once on any creature.
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#ReadtheKill)Read the Kill
 
-> Obviation is as much a philosophy as it is a practice. It’s not a good fit for those who want to remain … you know, fully alive.
+Also at rank 1, your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) not only tracks your franchise’s kills, it helps you determine the impact of those kills on the franchise’s fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a d10. Once within the next hour, that character can add the d10 to an attack roll, ability check, or saving throw. If it’s not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can’t use it again until you finish a long rest.
+
+> **TALANATHA THREE-COINS**
 > 
-> — Omin Dran
+> **Tiefling Occultant (Paladin)**
+> 
+> Occultants know that the unsettled feeling in the pit of your stomach comes from somewhere and has a purpose — and nobody can measure out and use that purpose like they can. As Talanatha “reads” fallen foes, she charts her party’s cosmic effects and can even try to smooth out the fabric of causality. As a tiefling, she often generates a kind of ambient unease in others, but she is always certain to account for this carefully, lest it bloom into “the unforeseen” that is the enemy of every enterprise.
 
-Possible details you might learn include the creature’s goals or motivation, bonds or ideals, personality traits, flaws, combat strategy (including common attack methods or tactics), financial information, lair location, allies or foes, romantic entanglements, sense of humor, or favorite songs.
+Ways to Read the Kill
 
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#AlchemistsInsight)Alchemist’s Insight
-
-At rank 2, you can use an action to use your alchemist’s supplies to identify any unknown substance (including alchemical items, potions, and other magical substances). Once you use this feature, you cannot use it again until you finish a long rest.
-
-Where You First Dabbled in Alchemy
-
-|d8|Learning Experience|
+|d6|Reading|
 |---|---|
-|1|You traveled with a charlatan alchemist for years, until they were arrested for selling fake healing potions. You still remember how to get the taste just right.|
-|2|You were once the head dishwasher in a famous wizard’s college.|
-|3|One of your parents was a healer in a small outpost, and they taught you that even the most mundane flora and natural materials can be used to wondrous effect.|
-|4|While lost in the Underdark, you were forced to consume mold, fungus, and insect parts to survive. You developed a taste for that sort of thing.|
-|5|You think you might be addicted to holy water. You just can’t stop drinking it long enough to find out for sure.|
-|6|You were once the personnel manager of a struggling business and needed to come up with a herbal cure-all that would keep employees awake for eighteen-hour shifts. No one died. Mostly.|
-|7|As the child of a wealthy and despotic noble, you learned to smell [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) pastries a mile off. A shame that your siblings weren’t so talented.|
-|8|As a server in a tavern, you refined the perfect hangover cure but never wrote the recipe down. Now you’re desperate to recreate it.|
+|1|Using a tiny bellows to pump one last breath into a corpse.|
+|2|Reading the entrails with special reading-the-entrails glasses.|
+|3|Burning a small piece of the body and looking for shapes in the smoke.|
+|4|A cautious, reasoned, professional guesstimate.|
+|5|Careful measurements. The distance between nostrils. The difference between the index finger and the middle finger. The elasticity of the ear lobe.|
+|6|You take a long, careful look, and then decide based on which fellow franchisee has been nice to you lately.|
 
-[![](https://www.dndbeyond.com/attachments/thumbnails/5/589/420/543/02-15.png)](https://www.dndbeyond.com/attachments/5/589/02-15.png)
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#EldritchOccultant)Eldritch Occultant
 
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#ObviatorsLenses)Obviator’s Lenses
+Starting at rank 2, your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) becomes an uncommon magic item that can track lives both eliminated and saved. While holding your occultant abacus within 5 feet of a creature killed within the past 24 hours, you can cast the [augury](https://www.dndbeyond.com/spells/2007-augury) spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) can’t be used again until the next dawn.
 
-Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the [obviator’s lenses](https://www.dndbeyond.com/magic-items/704032-obviators-lenses), you use a bonus action to make them function as [eyes of minute seeing](https://www.dndbeyond.com/magic-items/4634-eyes-of-minute-seeing) or [eyes of the eagle](https://www.dndbeyond.com/magic-items/4635-eyes-of-the-eagle). Once you make this choice, it cannot be changed until the next dawn.
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#BringOutYourDead)Bring Out Your Dead
 
-> **LOK**
+Also at rank 2, you regain the use of your Read the Kill feature after you finish a short or long rest.
+
+[![](https://www.dndbeyond.com/attachments/thumbnails/5/592/420/489/02-18.png)](https://www.dndbeyond.com/attachments/5/592/02-18.png)
+
+_OCCULTANT ABACUS_
+
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#BeadofInstantKarma)Bead of Instant Karma
+
+At rank 3, one of the beads on your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) channels the power of instant karma, turning the occultant abacus into a rare magic item. As a reaction, you can target one creature you can see that is about to attempt an ability check, attack roll, or saving throw, either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when used, reappearing on your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) at the next dawn.
+
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#DeathsOmen)Death’s Omen
+
+Also at rank 3, you gain the ability to read the grim portents of a creature’s demise. As a bonus action, choose a creature you can see that is below its hit point maximum and make a DC 15 Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. On a success, you determine whether this creature’s immediate death would have neutral, negative, or positive ramifications for you and your franchise. If the ramifications are different for you and the franchise, you learn this as well.
+
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#BeadofDivertedKarma)Bead of Diverted Karma
+
+At rank 4, one of the beads on your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) allows you to divert karma to where it’s needed, turning the [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) into a very rare magic item. While the bead is unused, you know automatically when any creature you can see is about to make an ability check, attack roll, or saving throw with disadvantage. When such a roll is made, you can use a reaction to grant a d10 to a different creature you can see. That creature can add the d10 to any ability check, attack roll, or saving throw it makes within the next minute. The bead crumbles to dust when used, reappearing on your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) at the next dawn.
+
+#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#CorrecttheBalance)Correct the Balance
+
+As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature’s death, you can use your [occultant abacus](https://www.dndbeyond.com/magic-items/704165-occultant-abacus) to divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15 Intelligence ([Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.
+
+If you fail the check, this property of the occultant abacus can’t be used again until the next dawn. If you succeed on the check, this property can’t be used again until dawn seven days later.
+
+> I don’t really understand occultants, and to be honest, they scare the Abyss out of me.
 > 
-> **Dwarf Obviator (Cleric)**
-> 
-> Like many Obviators, “Lok” chooses to use a working name rather than her actual name out of an abundance of caution. Obviators are cautious because they know precisely how dangerous any moment can be — and they are dangerous for the same reason. An obviator is like a lethal walking library. And if you were to face some kind of walking library at some point, Lok would know exactly what to do about it.
+> — Jim Darkmagic
 
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#AdvancedPreparations)Advanced Preparations
+Why Be an Occultant?
 
-At rank 3, you gain the ability to declare that you’re totally prepared. This preparedness takes the from of asking yourself one question, then making a DC 15 Intelligence ([History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. On a success, you recall information you could have uncovered through earlier research about your mission. The information can be a discreet revelation, a vague hint, or even a riddle. Once you use this feature, you cannot use it again until you finish a long rest.
-
-[![](https://www.dndbeyond.com/attachments/thumbnails/5/590/420/392/02-16.png)](https://www.dndbeyond.com/attachments/5/590/02-16.png)
-
-_TRAVEL ALCHEMICAL KIT_
-
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#TravelAlchemicalKit)Travel Alchemical Kit
-
-Also at rank 3, Head Office provides you with a [travel alchemical kit](https://www.dndbeyond.com/magic-items/704043-travel-alchemical-kit) — an uncommon magic item containing miniaturized versions of both [alchemist’s supplies](https://www.dndbeyond.com/equipment/102-alchemists-supplies) and a [poisoner’s kit](https://www.dndbeyond.com/equipment/125-poisoners-kit) (glass vials, a mortar and pestle, chemicals, and a glass stirring rod). You gain proficiency with a [poisoner’s kit](https://www.dndbeyond.com/equipment/125-poisoners-kit) as part of this upgrade.
-
-You can use this magical kit as long as it is on your person, with no need to draw or stow it. If you are ever searched, finding your [travel alchemical kit](https://www.dndbeyond.com/magic-items/704043-travel-alchemical-kit) requires a successful DC 20 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) or Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check.
-
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#EnhancedLenses)Enhanced Lenses
-
-At rank 4, your [obviator’s lenses](https://www.dndbeyond.com/magic-items/704032-obviators-lenses) gain additional power and become a rare magic item. The lenses now function as both [eyes of the eagle](https://www.dndbeyond.com/magic-items/4635-eyes-of-the-eagle) and [eyes of minute seeing](https://www.dndbeyond.com/magic-items/4634-eyes-of-minute-seeing).
-
-Additionally, you can focus the power of the lenses to gain accuracy in combat, gaining advantage on a weapon attack roll (no action required). If that attack hits, roll one additional weapon damage die. This property of the lenses can’t be used again until the next dawn.
-
-#### [](https://www.dndbeyond.com/sources/dnd/ai/growing-your-franchise#ObviatetheOpposition)Obviate the Opposition
-
-Also at rank 4, when you use your Read the Opposition feature and fail the check, you still learn one detail about the target creature, as chosen by the DM. Additionally, you can use Read the Opposition more than once on the same creature, but if you do so, you cannot use that feature again on the same creature until you finish a long rest.
-
-Why Be an Obviator?
-
-| d8  | Reason                                                                                              |
-| --- | --------------------------------------------------------------------------------------------------- |
-| 1   | There’s nothing that excites you more than a puzzle you can’t immediately solve.                    |
-| 2   | Your favorite saying is, “All according to plan.” Especially when you have no idea what’s going on. |
-| 3   | You have an entire room dedicated to notes and sketches connected by red yarn.                      |
-| 4   | Your plans are so detailed that they have plans of their own.                                       |
-| 5   | You find the little details so much more interesting than … well, anything else.                    |
-| 6   | You already had the chemical burns on your hands. Might as well make it official.                   |
-| 7   | Methodical. Calculating. Brilliant. One day, you hope these words will apply to you.                |
-| 8   | It’s not paranoia if they really are out to get you. And if you’re out to get them first.           |
+|d8|Reason|
+|---|---|
+|1|You believe in karmic balance, but hate the idea that “balance” means good and bad things can both happen to you. Good things happening to you and bad things happening to other people seems perfectly reasonable.|
+|2|You love drinking tea and hate cleaning up, so pretending that the dregs in those dozens of empty cups are there to show ill omens and portents is a perfect cover.|
+|3|You collected beads carved as skulls as a child. Nobody ever told you there was a career in that sort of thing.|
+|4|You watched someone close to you die, and were overcome by the feeling that you should be making money off it somehow.|
+|5|You’ve always owned a stuffed cat. You’re not sure where it came from, but it’s given you great career advice so far.|
+|6|You’ve always worn a lot of black.|
+|7|You really wanted a job where you can hide a fog machine under the desk for dramatic effect during meetings.|
+|8|You have an obsession with death that clearly marks you for great things.|
