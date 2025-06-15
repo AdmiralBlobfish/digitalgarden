@@ -3,6 +3,7 @@
 ---
 
 ## Welcome!
+![Pasted image 20250615094643.png](/img/user/Pasted%20image%2020250615094643.png)
 Hello, and welcome to the Inky Access Repository! This is the home for all of the information needed to build and sustain a successful Acq, Inc. Franchise!
 
 ***Consider this creature:***
