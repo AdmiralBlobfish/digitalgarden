@@ -4,6 +4,11 @@
 
 ## Welcome!
 Hello, and welcome to the Inky Access Repository! This is the home for all of the information needed to build and sustain a successful Acq, Inc. Franchise!
+
+***Consider this creature:***
+![Pasted image 20250615013605.png](/img/user/Pasted%20image%2020250615013605.png)
+If they can do it, you can too.
+
 ## Main Office Contracts
 - [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Main Office Contracts/Franchise Employee Roles\|Franchise Employee Roles]]
 - [[D&D/Faerun/Acquisitions Incorporated/Player Viewable/Franchise Management/Main Office Contracts/Shareholder-Level Roles\|Shareholder-Level Roles]]
